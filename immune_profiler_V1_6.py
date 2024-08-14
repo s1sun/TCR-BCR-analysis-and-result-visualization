@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # Author: Sean Sun
 
-
 script_name = 'Cogent_NGS_immune_profiler'
 version = 'CogentIP v1.6'
 desc = """
