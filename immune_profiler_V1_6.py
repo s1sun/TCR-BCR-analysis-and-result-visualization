@@ -4434,8 +4434,7 @@ if __name__ == '__main__':
     # Remove unnecessary files and directories based on species and debugging settings
     if p_args.species == 'rhesus_monkey':
         os.remove(os.path.join(p_args.main_dir, 'imgt.201946-3.sv6.json'))
-    else:
-        pass
+    
     logger.info('Analysis completed')
     print(get_time() + ' [INFO] Analysis completed', flush=True)
     sys.exit(0)
