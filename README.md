@@ -4,4 +4,9 @@ Immune profiling involves the analysis of T- and B-cell receptors (TCRs/BCRs), w
 
 The python source use new ImmuneProfilerv1.6.jar linked to MIGEC1.2.9 and MIXCR3 with BCRv1,BCRv2,TCRv1,TCRv2 kits as arguments to analyze TCR/BCR sub chains and clonotype
 
+## GUI for executing immune_profile to analyze the TCR/BCR raw data
 ![immune_profile_gui](figures/immune_profile_gui.png)
+
+## The tool for immune_profile_viewer to display the analysis results
+![immune_profile_viewer](immune_profile_viewer.png)
+https://bioinformatics-takarabiousa.shinyapps.io/Cogent_NGS_Immune_Viewer/
