@@ -9,4 +9,7 @@ The python source use new ImmuneProfilerv1.6.jar linked to MIGEC1.2.9 and MIXCR3
 
 ## The tool for immune_profile_viewer to display the analysis results
 ![immune_profile_viewer](immune_profile_viewer.png)
+
+please use the link below to upload the result file "S4_TRA_mig_cdr3_clones_result.csv" from the result folder
+
 https://bioinformatics-takarabiousa.shinyapps.io/Cogent_NGS_Immune_Viewer/
