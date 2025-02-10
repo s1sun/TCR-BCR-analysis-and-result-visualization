@@ -12,8 +12,8 @@ The python source use new ImmuneProfilerv1.6.jar linked to MIGEC1.2.9 and MIXCR3
 
 please use the link below to upload the file "report/S/S4_TRA_mig_cdr3_clones_result.csv" to view the results
 
-in [Section 'Viewer'](#ssFeatures) 
+[Lets go to Viewer](https://bioinformatics-takarabiousa.shinyapps.io/Cogent_NGS_Immune_Viewer/)
 
-## Viewer <a id='[ssFeatures](https://bioinformatics-takarabiousa.shinyapps.io/Cogent_NGS_Immune_Viewer/)'></a>
+## Viewer
 
 
