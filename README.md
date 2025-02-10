@@ -7,7 +7,7 @@ The python source use new ImmuneProfilerv1.6.jar linked to MIGEC1.2.9 and MIXCR3
 ## GUI for executing immune_profile to analyze the TCR/BCR raw data
 ![immune_profile_gui](figures/immune_profile_gui.png)
 
-## The tool for immune_profile_viewer to display the analysis results
+## The tool of immune_profile_viewer to display the analysis results
 ![immune_profile_viewer](figures/immune_profile_viewer.png)
 
 please use the link below to upload the file "report/S/S4_TRA_mig_cdr3_clones_result.csv" to view the results
