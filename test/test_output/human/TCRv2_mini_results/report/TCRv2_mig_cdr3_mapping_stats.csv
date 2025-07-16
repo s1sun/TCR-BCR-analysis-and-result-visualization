@@ -1,0 +1,7 @@
+sample type,total read,total MIG,UMI threshold,number of reads after MIG collapse,aligned,pair-read overlap,overlapped and aligned,clonotype count,TRA,TRB
+S4_TRA,1386,1195,1,1195,1074,77,33,1042,1030,0,0,0,0,0,0,0
+S4_TRB,959,829,1,829,660,125,9,650,0,650,0,0,0,0,0,0
+S5_TRA,1255,819,1,819,721,68,34,702,699,0,0,0,0,0,0,0
+S5_TRB,1019,685,1,685,553,110,25,539,0,539,0,0,0,0,0,0
+S6_TRA,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+S6_TRB,1850,1476,1,1476,1012,426,50,707,0,707,0,0,0,0,0,0
