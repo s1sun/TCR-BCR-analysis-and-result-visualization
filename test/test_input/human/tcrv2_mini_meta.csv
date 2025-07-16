@@ -1,0 +1,4 @@
+sampleID,read1_file_name,read2_file_name
+S4,S4_R1.fastq.gz,S4_R2.fastq.gz
+S5,S5_R1.fastq.gz,S5_R2.fastq.gz
+S6,S6_R1.fastq.gz,S6_R2.fastq.gz
